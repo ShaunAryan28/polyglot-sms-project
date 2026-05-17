@@ -260,7 +260,7 @@ curl http://localhost:8081/v1/user/user-007/messages
 | Go API | `8081` |
 | Kafka | `9092` |
 | Redis | `6379` |
-| MongoDB | `27017` |
+| MongoDB | `27018` |
 
 ---
 
